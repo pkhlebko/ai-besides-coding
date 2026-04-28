@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "2a91c5eded42983c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b2224a4fb068be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5c5f33d438823c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Personal ToDo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7a23ceae1a4c7027",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/ToDo/Work ToDo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1014bbe7afa9ac33",
+    "type": "split",
+    "children": [
+      {
+        "id": "db01cf1750a39081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f84ae8bb53a655",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e1366e01e2dc8e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23978bd8b9e2ee53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "99789f7a894117af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "97863fdf2c2a89df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b924716a8c87fc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fabaa870665569a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work/ToDo/Work ToDo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a5380b10c002df8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work/ToDo/Work ToDo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6523f9d103783ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c6bcbe36bf74152",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/ToDo/Work ToDo.md"
+              }
+            }
+          },
+          {
+            "id": "b544b68e22f564c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a23ceae1a4c7027",
+  "lastOpenFiles": [
+    "Personal/Personal ToDo.md",
+    "Work/ToDo/Work ToDo.md",
+    "Personal/Personal info.md",
+    "2023-11-19 Маленькие вещи делающие меня счастливее.md",
+    "2023-11-19 Что я чувствую и как с этим жить.md",
+    "Personal/2023-11-16 Bed.md",
+    "Дневничек/2023-11-18 Про блядские танки.md",
+    "Personal/What I want ot buy.md",
+    "Work/2023-10-12 Full-Stack developer interviews-EPBYMINW0789.md",
+    "KB/Interview/5. Node.js questions.md",
+    "Дневничек/2023-11-11 О толканах.md",
+    "Дневничек/2023-11-08 Сегодня.md",
+    "Personal/Useful contacts.md",
+    "Personal/Список продуктов на неделю.md",
+    "Дневничек/2023-11-08 Полочка.md",
+    "Дневничек/img/1699473901393.jpg",
+    "Personal/2023-10-31 Текст приглашения.md",
+    "Дневничек/2023-11-07 Арпетол.md",
+    "Дневничек/2023-10-31 Вишлист.md",
+    "Дневничек/2023-11-02 Про меня.md",
+    "Дневничек/img/2023-11-07 Arpetol.jpg",
+    "Дневничек/2023-10-25 Про бадминтон.md",
+    "Дневничек/2023-10-23 ДТП.md",
+    "Дневничек/2023-10-25 Еще раз о машине мечты.md",
+    "Дневничек/2023-10-29 Как перестать все и начать что-то.md",
+    "KB/Git/Git cheat sheet.md",
+    "Personal/What I want to do.md",
+    "Personal/Рацион на неделю.md",
+    "Work",
+    "Дневничек/img/2023-10-03 Про старых извращенцев 01.jpg",
+    "KB/ASMT",
+    "KB/Linux",
+    "Дневничек/img/2023-05-09 Про коробкомобили 00.jpg",
+    "Дневничек/img/1.jpg",
+    "Дневничек/img/2023-05-09 Про коробкомобили 04.jpg",
+    "Дневничек/img/2023-05-09 Про коробкомобили 04.png",
+    "Дневничек/img/2023-05-09 Про коробкомобили 03.jpg",
+    "Дневничек/img/2023-05-09 Про коробкомобили 03.png",
+    "Дневничек/img/2023-05-09 Про коробкомобили 02.jpg",
+    "KB/Interview/img",
+    "KB/Lithuania",
+    "Untitled.canvas",
+    "Personal 1",
+    "KB/Interview/For sort",
+    "Дневничек/img",
+    "Дневничек",
+    "Lithuanian/A2.1"
+  ]
+}

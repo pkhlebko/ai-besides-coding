@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "71481c5bf51ad76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae2707a0ff21059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b641a828f82767",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "96b08e42be612f84",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/!Google Keep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "!Google Keep"
+            }
+          },
+          {
+            "id": "c51bc1394442e987",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/TKD-DW1/!ToDo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "!ToDo"
+            }
+          },
+          {
+            "id": "9147c429b621b944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/!Marks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "!Marks"
+            }
+          },
+          {
+            "id": "c7a772d4806bdd10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Personal info.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal info"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9070188cc83c6cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33ed517484a2f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5ae54eb9bca8f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "758371252efff449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Rebase",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff14f5e1e977596a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c0109cad43e64c86",
+    "type": "split",
+    "children": [
+      {
+        "id": "42fc4744585f4ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba45e0628cc218c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Landing page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Landing page"
+            }
+          },
+          {
+            "id": "8b2b96b207a79496",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f739c0091008323",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EPAM/Interview/4.2 Angular.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4.2 Angular"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-trim-whitespace:Trim whitespace": false
+    }
+  },
+  "active": "c7a772d4806bdd10",
+  "lastOpenFiles": [
+    "Work/Projects/TKD-DW1/!ToDo.md",
+    "KB/Lead ASMT preparation plan/Software Design.md",
+    "Personal/!Google Keep.md",
+    "Configs/Klipper/K1 MZV.md",
+    "Work/!Marks.md",
+    "Personal/Personal info.md",
+    "Personal/2025-02-17 Про машину.md",
+    "Personal/Дневничек/2025-02-17 Про Steam.md",
+    "KB/Lead ASMT preparation plan/Software Development Process.md",
+    "KB/Lead ASMT preparation plan/Productivity & Quality & EngX.md",
+    "Configs/Klipper/2024-04-23 Ender 3 + sprite.md",
+    "Work/Projects/Merge vs Rebase/Merge vs Rebase.md",
+    "Personal/!AI.md",
+    "Work/Projects/TKD-DW1/Jira analisys/Data.md",
+    "Work/Projects/TKD-DW1/Jira analisys/FE.md",
+    "Work/Projects/TKD-DW1/Jira analisys/BE.md",
+    "Personal/2025-02-14.md",
+    "KB/Lead ASMT preparation plan/T-Shape.md",
+    "KB/Git/Git cheat sheet.md",
+    "AI Developer tools.md",
+    "Personal/2025-02-13.md",
+    "Work/Projects/Merge vs Rebase/Slides.md",
+    "Work/Projects/Merge vs Rebase/img",
+    "Work/Projects/Merge vs Rebase",
+    "Personal/!TODO.md",
+    "Personal/Want to buy.md",
+    "Personal/Want to do.md",
+    "Personal/Projects/Вечеринка 2023/TODO.md",
+    "Personal/img/ReadingSpeed02.png",
+    "Personal/img/ReadingSpeed01.png",
+    "Work/Projects/TKD-DW1/Jira analisys",
+    "Work/Projects/TKD-DW1",
+    "Personal/Archive data",
+    "KB/WSL",
+    "KB/GoF Design Patterns/img/behavioral_patterns.png",
+    "Personal/img"
+  ]
+}

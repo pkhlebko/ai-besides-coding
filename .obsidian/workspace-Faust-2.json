@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "2a91c5eded42983c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b2224a4fb068be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5c5f33d438823c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Personal ToDo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7a23ceae1a4c7027",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/ToDo/Work ToDo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "956508a5d8dfaf21",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Metadata page resolver cases.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "21bcbae6dce95b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Дневничек/2024-02-21 Про техлида.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1014bbe7afa9ac33",
+    "type": "split",
+    "children": [
+      {
+        "id": "db01cf1750a39081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f84ae8bb53a655",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e1366e01e2dc8e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#stupidbiches",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23978bd8b9e2ee53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "99789f7a894117af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "97863fdf2c2a89df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b924716a8c87fc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fabaa870665569a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Дневничек/2024-02-21 Про техлида.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a5380b10c002df8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Дневничек/2024-02-21 Про техлида.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6523f9d103783ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c6bcbe36bf74152",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Дневничек/2024-02-21 Про техлида.md"
+              }
+            }
+          },
+          {
+            "id": "b544b68e22f564c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91f84ae8bb53a655",
+  "lastOpenFiles": [
+    "Personal/2024-02-20 Про телефоны.md",
+    "Personal/Дневничек/2024-02-21 Про техлида.md",
+    "Work/Metadata page resolver cases.md",
+    "Lithuanian/A2.2/2024-02-02 Testas 1.md",
+    "Personal/Personal ToDo.md",
+    "Pasted image 20240220162625.png",
+    "Lithuanian/A2.2/_Zoom meeting.md",
+    "Work/ToDo/Work ToDo.md",
+    "Metadata page resolver demo.md",
+    "Personal/Silvana's presents ideas.md",
+    "Untitled.md",
+    "Personal/2024-02-18 Vienaratis Segway Ninebot One S2.md",
+    "Personal/2024-02-14.md",
+    "Personal/Дневничек/2024-02-13 Снова про моноколесо.md",
+    "Personal/2024-02-11 K1.md",
+    "Personal/Дневничек/2024-02-09 О тупизне.md",
+    "Work/Suliman's SB proxy-env.proxy.conf.json.md",
+    "Work/Solution V2.md",
+    "Work/2023-10-12 Ui lib 1253661.md",
+    "Personal/Дневничек/2024-02-08 Еще новости.md",
+    "Personal/Дневничек/2024-02-06 Про работу.md",
+    "Personal/Дневничек/2023/2023-05-09 Про коробкомобили.md",
+    "Personal/Дневничек/2023/2023-12-18 Немного новостей.md",
+    "Personal/Дневничек/2023/2023-12-16 Про погоду и шлем.md",
+    "Personal/Дневничек/2023/2023-12-13 Про соседа часть 2.md",
+    "Personal/Дневничек/2023/2023-12-08 Вечеринка.md",
+    "Personal/Дневничек/2023/2023-11-30 Новостишки.md",
+    "Personal/Дневничек/2023/img/spotify.jpg",
+    "Personal/Дневничек/2023/img/rafaello.jpg",
+    "Personal/Дневничек/2023/img/poang.jpg",
+    "Personal/Дневничек/2023/img/magnet.jpg",
+    "Personal/Дневничек/2023/img/F_xoKE6XIAEB351.jpg",
+    "Personal/Дневничек/2023/img/avokado.jpg",
+    "Personal/Дневничек/2023/img/arbata.jpg",
+    "Personal/Дневничек/2023/img/2023-11-07 Arpetol.jpg",
+    "Personal/Дневничек/2023/img/2023-10-31 Wishlist 8.jpg",
+    "Personal/Дневничек/2023/img",
+    "Personal/Дневничек/2023",
+    "Lithuanian/A2.2",
+    "Personal/Projects",
+    "Personal/Projects/Вечеринка 2023",
+    "Work",
+    "KB/ASMT",
+    "KB/Linux",
+    "KB/Interview/img",
+    "KB/Lithuania",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,47 @@
+@charset "UTF-8";
+body {
+  --intensive-red: #d16969; /* Most intensive red */
+  --intensive-orange: #CE9178; /* Intensive orange */
+  --intensive-pink: #C586C0; /* Intensive pink */
+  --intensive-yellow: #d7ba7d; /* Intensive yellow */
+  --light-yellow: #DCDCAA; /* Light yellow */
+  --intensive-teal: #4EC9B0; /* Intensive teal */
+  --intensive-light-blue: #4FC1FF; /* Intensive light blue */
+  --medium-blue: #569cd6; /* Medium blue */
+  --light-blue: #9CDCFE; /* Light blue */
+  --light-gray: #C8C8C8; /* Light gray */
+  --light-green: #b5cea8; /* Light green */
+
+  --h1-color: var(--medium-blue);
+  --h2-color: var(--intensive-orange);
+  --h3-color: var(--intensive-yellow);
+  --h4-color: var(--intensive-red);
+  --h5-color: var(--intensive-light-blue);
+  --h6-color: var(--light-green);
+}
+
+/* Bold font */
+body:not(.default-font-color) strong,
+body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
+  color: var(--medium-blue);
+}
+
+/* Italics */
+body:not(.default-font-color) em,
+body:not(.default-font-color) span:not(.cm-highlight).cm-em {
+  color: var(--light-green);
+}
+
+/*
+    tables-auto-left.css snippet
+
+    Adjust tables for auto-width columns & not using full width.
+
+    2021-06-07 Matthias C. Hormann (Moonbase59)
+*/
+
+table {
+  table-layout: auto !important;
+  width: unset !important;
+  max-width: 100%;
+}

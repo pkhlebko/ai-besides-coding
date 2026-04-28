@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "71481c5bf51ad76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "613d5f3ca64debe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c13a7d6879149c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/!Google Keep.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "!Google Keep"
+            }
+          },
+          {
+            "id": "64cb93485d0a7a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-09-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-30"
+            }
+          },
+          {
+            "id": "5e3e6077f64fbce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-09-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-29"
+            }
+          },
+          {
+            "id": "617e58cd78a4370b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/SLB-VTC MyDigitalProduct/Summary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary"
+            }
+          },
+          {
+            "id": "a7edb1f4ac592f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/SLB-VTC MyDigitalProduct/MyDigitalProduct Team.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MyDigitalProduct Team"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9070188cc83c6cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33ed517484a2f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5ae54eb9bca8f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "758371252efff449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wsl",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff14f5e1e977596a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "c0109cad43e64c86",
+    "type": "split",
+    "children": [
+      {
+        "id": "42fc4744585f4ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba45e0628cc218c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2025-07-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-07-24"
+            }
+          },
+          {
+            "id": "8b2b96b207a79496",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": "git"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f739c0091008323",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/Projects/TKD-DW1/TKD-DW1.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TKD-DW1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "617e58cd78a4370b",
+  "lastOpenFiles": [
+    "Daily notes/2025-10-01.md",
+    "Work/Projects/SLB-VTC MyDigitalProduct/MyDigitalProduct Team.md",
+    "Work/Projects/SLB-VTC MyDigitalProduct/Slb account.md",
+    "Work/Projects/SLB-VTC MyDigitalProduct/Architecture.md",
+    "Work/Projects/SLB-VTC MyDigitalProduct/Architecture summary.md",
+    "Work/Projects/SLB-VTC MyDigitalProduct/DevOps Process Implementation Solution Document.md",
+    "Work/Projects/SLB-VTC MyDigitalProduct/Summary.md",
+    "Daily notes/2025-09-30.md",
+    "Personal/Personal info.md",
+    "Personal/!Google Keep.md",
+    "Diary/2025-09-30 Волосы.md",
+    "Diary/2025-01-13 Про волосы.md",
+    "Daily notes/2025-09-22.md",
+    "Daily notes/2025-09-17.md",
+    "Daily notes/2025-08-28.md",
+    "Daily notes/2025-08-16.md",
+    "Daily notes/2025-07-28.md",
+    "Work/Projects/SLB-VTC MyDigitalProduct/Notifications Service POC.md",
+    "Daily notes/2025-08-26.md",
+    "Daily notes/2025-08-27.md",
+    "Daily notes/2025-08-29.md",
+    "Daily notes/2025-09-01.md",
+    "Daily notes/2025-09-02.md",
+    "Daily notes/2025-09-03.md",
+    "Daily notes/2025-09-04.md",
+    "Daily notes/2025-09-05.md",
+    "Pasted image 20250917101921.png",
+    "Pasted image 20250925173813.png",
+    "Work/Projects/SLB-VTC MyDigitalProduct/Architecture analysis",
+    "Pasted image 20250912111648.png",
+    "Pasted image 20250912111655.png",
+    "Lithuanian/B1.1",
+    "Work/Projects/SLB-VTC MyDigitalProduct",
+    "Pasted image 20250812152535.png",
+    "CLAUDE.md.tmp.23488.1754317608489",
+    "Personal/img/ReadingSpeed02.png",
+    "Personal/img/ReadingSpeed01.png",
+    "Pasted image 20250724153434.png",
+    "Pasted image 20250729135445.png",
+    "Pasted image 20250729135445 1.png",
+    "CLAUDE.md.tmp.23488.1754316772082",
+    "KB/Web Accessibility",
+    "Work/Projects/SuperG",
+    "Work/Projects/TKD-DW1/Documentation",
+    "Personal/Personal.canvas",
+    "Work/ASMT/D4/Questions",
+    "Work/ASMT/D4",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

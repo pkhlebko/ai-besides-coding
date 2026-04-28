@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "c197bbc0b0d097f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11b29ce4a14a3cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "216a36a07c3cda41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2026-03-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-03"
+            }
+          },
+          {
+            "id": "873044a57ebcf94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2026-04-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-02"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76b6bf3becae1013",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6732536bfa9a95ec",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "acbed3d5ed86429d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d33835f7e3d1b65d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c6d1251461902363",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "starred"
+        }
+      },
+      {
+        "id": "297bc088ffba5d39",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "b9f47b74f577d93f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "871ff6e5bdec6fdc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "afd66de0f3546135",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ку.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "lucide-ghost",
+          "title": "backlink"
+        }
+      },
+      {
+        "id": "474c0bc8e0f27e12",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personal/I want to buy.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9acba099d78dec5a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personal/I want to buy.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "873044a57ebcf94b",
+  "lastOpenFiles": [
+    "Personal/!Список покупок.md",
+    "Daily notes/2026-04-02.md",
+    "Daily notes/2026-03-17.md",
+    "Projects/2026-03-10 Talk - AI as a Force Multiplier for Tech Leads/Plan AI.md",
+    "AI generated/ORGANIZATION_PROPOSAL.md",
+    "AI generated/Azure DevOps Team Assignments - 2026-02-08.md",
+    "Projects/2026-03-10 Talk - AI as a Force Multiplier for Tech Leads/slides/need_you.png",
+    "AI generated/mortgage_inquiry_drafts.md",
+    "AI generated/Azure_DevOps_MCP_Guide.md",
+    "Daily notes/2026-03-16.md",
+    "Projects/2026-03-10 Talk - AI as a Force Multiplier for Tech Leads/Plan.md",
+    "KB/Git/Aliases list.md",
+    "KB/EPAM processes/Onboarding buddy KB.md",
+    "KB/EPAM processes/Compensation.md",
+    "KB/EPAM processes/Bench guide.md",
+    "KB/EPAM processes/BYOD.md",
+    "KB/Docker/Docker — оптимизация контейнеров.md",
+    "KB/EPAM processes",
+    "Daily notes/2026-03-16 (conflict 2026-03-16-13-42-11).md",
+    "Daily notes/2026-03-12.md",
+    "Daily notes/2026-03-05.md",
+    "Daily notes/2026-03-04.md",
+    "Daily notes/2026-03-03.md",
+    "Daily notes/2026-03-02.md",
+    "Daily notes/2026-01-21.md",
+    "Daily notes/2026-01-09.md",
+    "Daily notes/2026-01-11.md",
+    "Daily notes/2026-01-03.md",
+    "Diary/2023/img/2023-10-31 Wishlist 3.jpg",
+    "Diary/2023/img/2023-10-03 Про старых извращенцев 01.jpg",
+    "Diary/2023/img/2023-05-09 Про коробкомобили 02.jpg",
+    "Pasted image 20240827160755.png",
+    "Untitled",
+    "2024-08-14 Летим в Ниццу",
+    "KB/Interview",
+    "KB/Git",
+    "KB/English",
+    "KB",
+    "EPAM/ToDo",
+    "EPAM/RM notes/Useful.urls",
+    "EPAM/RM notes"
+  ]
+}

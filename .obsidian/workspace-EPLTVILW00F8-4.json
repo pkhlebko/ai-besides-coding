@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "71481c5bf51ad76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "613d5f3ca64debe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c13a7d6879149c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/!Google Keep.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "!Google Keep"
+            }
+          },
+          {
+            "id": "04abe2a1b2b13b0b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/Experts community/Building plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Building plan"
+            }
+          },
+          {
+            "id": "67a5c94ab2084dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Knowledge base/Onboarding buddy KB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Onboarding buddy KB"
+            }
+          },
+          {
+            "id": "441fc33206d6be86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-12-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-16"
+            }
+          },
+          {
+            "id": "2f801003d88b632d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-12-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-18"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9070188cc83c6cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33ed517484a2f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5ae54eb9bca8f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "758371252efff449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "onboarding budd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff14f5e1e977596a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "c0109cad43e64c86",
+    "type": "split",
+    "children": [
+      {
+        "id": "42fc4744585f4ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba45e0628cc218c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2025-07-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-07-24"
+            }
+          },
+          {
+            "id": "8b2b96b207a79496",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": "git"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f739c0091008323",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/Projects/TKD-DW1/TKD-DW1.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TKD-DW1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2f801003d88b632d",
+  "lastOpenFiles": [
+    "Work/Projects/SLB-VTC MyDigitalProduct/SLB-VTC MyDigitalProduct.md",
+    "Daily notes/2025-12-18.md",
+    "Diary/2025-12-16 Про современные проблемы.md",
+    "Work/Projects/Experts community/Building plan.md",
+    "Daily notes/2025-12-16.md",
+    "Work/Interview/1.1 JS coding tasks.md",
+    "Work/Interview/TI JS coding tasks.md",
+    "Work/Interview/0. Interview template.md",
+    "Work/ASMT/D3/ASMT Questions.md",
+    "Work/ASMT/D3/ASMT L3 Questions.md",
+    "Work/ASMT/D3/2. Discipline specific tech expertise.md",
+    "Work/ASMT/D3/1. Common tech expertise.md",
+    "Daily notes/2025-12-15.md",
+    "Personal/!Google Keep.md",
+    "Work/Knowledge base/Onboarding buddy KB.md",
+    "Work/Projects/Experts community/Service description.md",
+    "Daily notes/2025-12-14.md",
+    "Daily notes/2025-12-11.md",
+    "Daily notes/2025-12-12.md",
+    "Daily notes/2025-12-13.md",
+    "Work/Projects/SuperG/SuperG.md",
+    "Daily notes/2025-11-12.md",
+    "Daily notes/2025-11-14.md",
+    "Daily notes/2025-11-16.md",
+    "Daily notes/2025-11-17.md",
+    "Daily notes/2025-11-18.md",
+    "Diary/2025-11-30 Про серфинг.md.tmp.266.1764522770669",
+    "Diary/2025-11-30 Про австралийцев.md.tmp.266.1764519832942",
+    "Diary/2025-11-25 Трудоголизм.md.tmp.22058.1764107520226",
+    "Diary 📔/2025-11-24 Про brainfart.md.tmp.3238.1764002028065",
+    "Work/Projects/SLB-VTC MyDigitalProduct/Tasks",
+    "Daily notes/2025-11-24.md.tmp.1429.1763977834535",
+    "Daily notes/2025-11-24.md.tmp.1429.1763977802031",
+    "New folder",
+    "Work/ASMT/D4/Questions 1/desktop.ini",
+    "Work/ASMT/D4/D4 Questions",
+    "Pasted image 20251107113648.png",
+    "Pasted image 20251105140603.png",
+    "Pasted image 20250925173813.png",
+    "Pasted image 20250917101921.png",
+    "Pasted image 20251007093536.png",
+    "Pasted image 20251007092557.png",
+    "Pasted image 20251007092415.png",
+    "Pasted image 20250912111648.png",
+    "Pasted image 20250912111655.png",
+    "Pasted image 20250812152535.png",
+    "Personal/Personal.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

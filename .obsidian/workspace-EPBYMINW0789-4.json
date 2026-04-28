@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "2a91c5eded42983c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0422bed1107263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "562d546fb5b68c60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1014bbe7afa9ac33",
+    "type": "split",
+    "children": [
+      {
+        "id": "db01cf1750a39081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f84ae8bb53a655",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e1366e01e2dc8e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23978bd8b9e2ee53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "99789f7a894117af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "97863fdf2c2a89df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b924716a8c87fc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fabaa870665569a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a5380b10c002df8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6523f9d103783ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c6bcbe36bf74152",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b544b68e22f564c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "562d546fb5b68c60",
+  "lastOpenFiles": [
+    "Lithuanian/A2.2/2024-02-02 Testas 1.md",
+    "Personal/Дневничек/2024-04-03 Поездка часть 3.md",
+    "Personal/2024-04-08.md",
+    "KB/Git/Git cheat sheet.md",
+    "KB/Linux/Linux cheat sheet.md",
+    "Personal/Personal ToDo (conflict 2024-03-26-07-50-36).md",
+    "Personal/Personal ToDo.md",
+    "Personal/Personal info.md",
+    "Lithuanian/A2.2/_Zoom meeting.md",
+    "Personal/Дневничек/2024-04-03 Поездка часть 1.md",
+    "Personal/Дневничек/2024-04-03 Поездка часть 2.md",
+    "Lithuanian/A2.2/2024-04-01 Homework.md",
+    "Lithuanian/A2.2/2024-03-15 Testas 2.md",
+    "Lithuanian/A2.2/2024-03-15 Testas 2 (conflict 2024-03-26-07-50-36).md",
+    "Personal/Дневничек/2024-03-28 История про кеды.md",
+    "Pasted image 20240328170355.png",
+    "Pasted image 20240328170257.png",
+    "Pasted image 20240328170146.png",
+    "Pasted image 20240328170134.png",
+    "Personal/Дневничек/2024-03-26 Какие-то новости.md",
+    "Personal/Дневничек/2024-03-22 Про 3D печать.md",
+    "Personal/2024-02-11 K1.md",
+    "Pasted image 20240326165721.png",
+    "Pasted image 20240326162459.png",
+    "Personal/Silvana's presents ideas.md",
+    "Work/!TODO.md",
+    "Unsorted.md",
+    "Work/Test replay service.md",
+    "Work/SLB TODO.md",
+    "Personal/Дневничек/2024-03-18 Про самокат.md",
+    "Work/2023-10-12 Ui lib 1253661.md",
+    "Personal/Дневничек/2024-03-17 Про отпуск.md",
+    "Pasted image 20240226181035.png",
+    "Pasted image 20240226181004.png",
+    "Pasted image 20240226180945.png",
+    "Pasted image 20240220162625.png",
+    "Personal/Дневничек/2023/img",
+    "Personal/Дневничек/2023",
+    "Lithuanian/A2.2",
+    "Personal/Projects",
+    "Personal/Projects/Вечеринка 2023",
+    "Work",
+    "KB/ASMT",
+    "KB/Linux",
+    "KB/Interview/img",
+    "KB/Lithuania",
+    "Untitled.canvas"
+  ]
+}

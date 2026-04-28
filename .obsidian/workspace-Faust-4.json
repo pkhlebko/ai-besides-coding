@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "2a91c5eded42983c",
+    "type": "split",
+    "children": [
+      {
+        "id": "54be160de48306a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde3d59f1a1b0379",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Git/Git cheat sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Git cheat sheet"
+            }
+          },
+          {
+            "id": "663428ded1621768",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/! TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "! TODO"
+            }
+          },
+          {
+            "id": "3bf21a98c546662b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/2024-10-11 Вишлист 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2024-10-11 Вишлист 2024"
+            }
+          },
+          {
+            "id": "bbea790ad20e6ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/I want to buy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I want to buy"
+            }
+          },
+          {
+            "id": "50a6f1ddf5f42802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Proxy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxy"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1014bbe7afa9ac33",
+    "type": "split",
+    "children": [
+      {
+        "id": "db01cf1750a39081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f84ae8bb53a655",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e1366e01e2dc8e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dock",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23978bd8b9e2ee53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "99789f7a894117af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "97863fdf2c2a89df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b924716a8c87fc4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fabaa870665569a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/2024-10-23 Про мои волосы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-23 Про мои волосы"
+            }
+          },
+          {
+            "id": "0a5380b10c002df8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/2024-10-23 Про мои волосы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-23 Про мои волосы"
+            }
+          },
+          {
+            "id": "b6523f9d103783ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2c6bcbe36bf74152",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/2024-10-23 Про мои волосы.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-23 Про мои волосы"
+            }
+          },
+          {
+            "id": "b544b68e22f564c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "50a6f1ddf5f42802",
+  "lastOpenFiles": [
+    "Personal/2024-10-11 Вишлист 2024.md",
+    "Work/Proxy.md",
+    "Personal/I want to buy.md",
+    "Personal/! TODO.md",
+    "ausines-nothing-ear-a-vastamelunappikuulokkeet-3f6c315c6b.jpeg",
+    "KB/Git/Git cheat sheet.md",
+    "KB/WSL Commands.md",
+    "Personal/Personal ToDo.md",
+    "Work/Authentication and authorization in the Delphi Product.md",
+    "Work/AppShell solution builder proxy conf.md",
+    "Personal/Дневничек/2024-04-25 Про спотифай.md",
+    "Personal/2024-10-23 Про мои волосы.md",
+    "Work/Solution builder port forwarding.md",
+    "Personal/Дневничек/2024-10-22 Про белые подкрадули.md",
+    "Leadership & Soft Skills.md",
+    "Personal/2024-08-13 Темы для тераписта.md",
+    "Personal/2024-07-24 Фильмы.md",
+    "Personal/2024-07-20 Темы для постов.md",
+    "Personal/2024-05-22 Иск о расторжении брака.md",
+    "Personal/2024-05-14 План работ над домом.md",
+    "Personal/2024-04-21 Фидбэк от Веры.md",
+    "Personal/Personal info.md",
+    "Personal/Silvana's presents ideas.md",
+    "Personal/What I want to do.md",
+    "Personal/Список покупок.md",
+    "Personal/2024-10-22 Про самокат.md",
+    "Personal/2024-10-18 Про экзистенциальный кризис.md",
+    "Pasted image 20240919111528.png",
+    "Personal/2024-09-24 Про то как Бо допизделся.md.2024-09-24_21.30.32.foldersync.old",
+    "Pasted image 20240827160755.png",
+    "Lead ASMT preparation plan/Index.md.2024-08-28_22.30.35.foldersync.old",
+    "Lead ASMT preparation plan",
+    "KB/TypeScript",
+    "KB/ASMT/L3",
+    "AI for JS/Module 1",
+    "AI for JS",
+    "_templates",
+    "Personal/Дневничек/img",
+    "Personal/Дневничек/img/pair-programming.jpeg",
+    "Lithuanian/Pasted image 20240326162459.png",
+    "KB/GoF Design Patterns/img/creational_patterns.webp",
+    "KB/GoF Design Patterns/img/creational_structural_patterns.webp",
+    "KB/GoF Design Patterns/img/Prototype pattern 02.webp",
+    "KB/GoF Design Patterns/img/Prototype pattern 01.webp",
+    "KB/GoF Design Patterns/img/Builder pattern structure.png",
+    "KB/GoF Design Patterns/img",
+    "Untitled.canvas"
+  ]
+}

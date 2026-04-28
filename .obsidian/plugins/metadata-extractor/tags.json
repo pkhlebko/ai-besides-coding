@@ -1,0 +1,2919 @@
+[
+  {
+    "tag": "skill",
+    "tagCount": 7,
+    "relativePaths": [
+      "_templates/Skill.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Web Application Rendering Strategies.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Software Engineering Processes.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Software Engineering Knowledge & Experience.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Software Design.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Node.js Service Development.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Index.md"
+    ]
+  },
+  {
+    "tag": "dailynote",
+    "tagCount": 10,
+    "relativePaths": [
+      "_templates/Daily note.md",
+      "Daily notes/2026-01-27.md",
+      "Daily notes/2026-01-25.md",
+      "Daily notes/2026-01-28.md",
+      "Daily notes/2026-01-26.md",
+      "Daily notes/2026-01-12.md",
+      "Daily notes/2026-01-15.md",
+      "Daily notes/2026-01-09.md",
+      "Daily notes/2026-01-08.md",
+      "Daily notes/2026-01-05.md"
+    ]
+  },
+  {
+    "tag": "diary",
+    "tagCount": 628,
+    "relativePaths": [
+      "_templates/Diary Post Template.md",
+      "Diary/2026-01-26 Про признания.md",
+      "Diary/2026-01-18 Белое винишко.md",
+      "Diary/2026-01-26 День новых смертей.md",
+      "Diary/2026-01-26 Про мальчиков с маникюром.md",
+      "Diary/2026-01-07 Про табак.md",
+      "Diary/2026-01-08 Про когнитивное истощение.md",
+      "Diary/2026-01-07 Про кафе.md",
+      "Diary/2026-01-07 Дудка.md",
+      "Diary/2026-01-07 Книги.md",
+      "Diary/2026-01-06 Снегосипед.md",
+      "Diary/2026-01-01 Итоги предыдущего года.md",
+      "Diary/2024/Про оплати.md",
+      "Diary/2024/2024-12-29 Про новогодний колл.md",
+      "Diary/2024/2024-12-27 Про аддикшн.md",
+      "Diary/2024/2024-12-20 Последний.md",
+      "Diary/2024/2024-12-17 Дозаправка.md",
+      "Diary/2024/2024-12-18 Про память.md",
+      "Diary/2024/2024-12-17 Некоторые люди суки.md",
+      "Diary/2024/2024-12-14 Про суд.md",
+      "Diary/2024/2024-12-13 Про SODRA.md",
+      "Diary/2024/2024-12-12 Про кофеварки.md",
+      "Diary/2024/2024-12-12 Для минчан.md",
+      "Diary/2024/2024-12-11 Про лего.md",
+      "Diary/2024/2024-12-11 Позитивные новости.md",
+      "Diary/2024/2024-12-11 Как я вчера умирал.md",
+      "Diary/2024/2024-12-08 Про зубную фею.md",
+      "Diary/2024/2024-12-08 Про вайбы родины.md",
+      "Diary/2024/2024-12-07 Про недельку.md",
+      "Diary/2024/2024-12-01 Про вечеринку.md",
+      "Diary/2024/2024-11-27 Отметили.md",
+      "Diary/2024/2024-11-26 Новости.md",
+      "Diary/2024/2024-11-24 Про больничку.md",
+      "Diary/2024/2024-11-24 Больничка.md",
+      "Diary/2024/2024-11-22 На велосипеде.md",
+      "Diary/2024/2024-11-21 Про СДВГ.md",
+      "Diary/2024/2024-11-20 Про сянины деньги.md",
+      "Diary/2024/2024-11-19 Про компьютеры.md",
+      "Diary/2024/2024-11-18 Про деньги.md",
+      "Diary/2024/2024-11-17 Про гладиаторов.md",
+      "Diary/2024/2024-11-15 Про велосипед.md",
+      "Diary/2024/2024-11-14 Про день-пиздень.md",
+      "Diary/2024/2024-11-13 Положительные новости.md",
+      "Diary/2024/2024-11-11 Новости.md",
+      "Diary/2024/2024-11-10 Еще немного негодования.md",
+      "Diary/2024/2024-11-06 Про пиздец.md",
+      "Diary/2024/2024-11-05 Про Сильванин бизнес.md",
+      "Diary/2024/2024-11-04 Про Trap.md",
+      "Diary/2024/2024-11-01 Про маму.md",
+      "Diary/2024/2024-10-29 Немного новостей.md",
+      "Diary/2024/2024-10-26 Новости и анонсы.md",
+      "Diary/2024/2024-10-22 Про белые подкрадули.md",
+      "Diary/2024/2024-10-23 Про мои волосы.md",
+      "Diary/2024/2024-10-17 Новости.md",
+      "Diary/2024/2024-10-09 Про машину для отца.md",
+      "Diary/2024/2024-10-09 Новости.md",
+      "Diary/2024/2024-10-04 Шестой день.md",
+      "Diary/2024/2024-09-30 Как это было часть 2.md",
+      "Diary/2024/2024-09-29 История про то как ухаживать за посадками.md",
+      "Diary/2024/2024-09-30 Как это было часть 1.md",
+      "Diary/2024/2024-09-27 Почему не лысый.md",
+      "Diary/2024/2024-09-27 Интро про Стамбул.md",
+      "Diary/2024/2024-09-24 Про то как Бо допизделся.md",
+      "Diary/2024/2024-09-11 Новости.md",
+      "Diary/2024/2024-09-20 Скалодром.md",
+      "Diary/2024/2024-09-15 Новости прошедших выходных.md",
+      "Diary/2024/2024-09-07 Про новые автомобили.md",
+      "Diary/2024/2024-09-04 Снова про колесо.md",
+      "Diary/2024/2024-09-01 Про личную жизнь.md",
+      "Diary/2024/2024-08-29 Сколько стоит собрать ребенка в школу.md",
+      "Diary/2024/2024-08-27 Родительское собрание.md",
+      "Diary/2024/2024-08-26 Про убунту.md",
+      "Diary/2024/2024-08-25 День жизненных уроков.md",
+      "Diary/2024/2024-08-23 Про робот хуесос.md",
+      "Diary/2024/2024-08-24 Про зоопарк.md",
+      "Diary/2024/2024-08-21 Новая рубрика в светлом блоге.md",
+      "Diary/2024/2024-08-21 Итоги отпуска.md",
+      "Diary/2024/2024-08-21 Домой.md",
+      "Diary/2024/2024-08-14 Новости.md",
+      "Diary/2024/2024-08-18 Про Италию.md",
+      "Diary/2024/2024-08-17 Про Италию.md",
+      "Diary/2024/2024-08-06 Новости.md",
+      "Diary/2024/2024-08-02 Новости.md",
+      "Diary/2024/2024-08-04 Про велосипед.md",
+      "Diary/2024/2024-07-31 Про велосипед.md",
+      "Diary/2024/2024-07-30 про Helly Hansen.md",
+      "Diary/2024/2024-07-27 Про техосмотр.md",
+      "Diary/2024/2024-07-30 время крутить педали.md",
+      "Diary/2024/2024-07-28 Про бархоппинг.md",
+      "Diary/2024/2024-07-26 Про моноколеса.md",
+      "Diary/2024/2024-07-17 Про тепленькое.md",
+      "Diary/2024/2024-07-23 Про поездку.md",
+      "Diary/2024/2024-07-17 Сегодня новости.md",
+      "Diary/2024/2024-07-15 Ничего не пишу.md",
+      "Diary/2024/2024-07-08 Бананы в ушах.md",
+      "Diary/2024/2024-07-04 У меня осталось.md",
+      "Diary/2024/2024-07-02 Про моноколесо.md",
+      "Diary/2024/2024-06-28 Про Минск.md",
+      "Diary/2024/2024-06-23 Про стройку.md",
+      "Diary/2024/2024-06-21 Про хомяка.md",
+      "Diary/2024/2024-06-20 Про сон.md",
+      "Diary/2024/2024-06-13 Про тяжесть бытия.md",
+      "Diary/2024/2024-06-10 Про армян.md",
+      "Diary/2024/2024-06-03 Про выпускной.md",
+      "Diary/2024/2024-06-10 Новости 1.md",
+      "Diary/2024/2024-06-10 Новости.md",
+      "Diary/2024/2024-06-02 Про соцсоревнование.md",
+      "Diary/2024/2024-05-29 Про школу.md",
+      "Diary/2024/2024-05-28 Новости.md",
+      "Diary/2024/2024-05-23 Про моноколесо.md",
+      "Diary/2024/2024-05-23 Про Беларусь.md",
+      "Diary/2024/2024-05-19 Про Windows 11.md",
+      "Diary/2024/2024-05-20 Про эйрподсы.md",
+      "Diary/2024/2024-05-13 Про глистограм.md",
+      "Diary/2024/2024-05-12 Про танцы.md",
+      "Diary/2024/2024-05-10 Про тайну третьей планеты.md",
+      "Diary/2024/2024-05-08 Про что бы вы думали.md",
+      "Diary/2024/2024-05-04 Про велосипед.md",
+      "Diary/2024/2024-05-03 Про работу.md",
+      "Diary/2024/2024-05-01 Про сны и Леху.md",
+      "Diary/2024/2024-04-28 Про каннибализм.md",
+      "Diary/2024/2024-04-26 Невеселье.md",
+      "Diary/2024/2024-04-25 Про спотифай.md",
+      "Diary/2024/2024-04-25 Про кроссовочки.md",
+      "Diary/2024/2024-04-15 Про доброго котика.md",
+      "Diary/2024/2024-04-21 Про Сильвану и индейку.md",
+      "Diary/2024/2024-04-23 Про квартиру.md",
+      "Diary/2024/2024-04-20 Без хороших новостей.md",
+      "Diary/2024/2024-04-14 Про холодос.md",
+      "Diary/2024/2024-04-13 Вечеринка Сильваны.md",
+      "Diary/2024/2024-04-12 Токсичное.md",
+      "Diary/2024/2024-04-12 Про Сильвану.md",
+      "Diary/2024/2024-04-09 Потеплело.md",
+      "Diary/2024/2024-04-03 Поездка часть 2.md",
+      "Diary/2024/2024-04-03 Поездка часть 3.md",
+      "Diary/2024/2024-04-03 Поездка часть 1.md",
+      "Diary/2024/2024-03-22 Про 3D печать.md",
+      "Diary/2024/2024-03-18 Про самокат.md",
+      "Diary/2024/2024-03-17 Про отпуск.md",
+      "Diary/2024/2024-03-08 Demo.md",
+      "Diary/2024/2024-03-03 Про диван.md",
+      "Diary/2024/2024-02-28 Про ловушку.md",
+      "Diary/2024/2024-02-23 Banana bread day.md",
+      "Diary/2024/2024-02-24 Onedrive.md",
+      "Diary/2024/2024-02-21 Про техлида.md",
+      "Diary/2024/2024-02-13 Снова про моноколесо.md",
+      "Diary/2024/2024-02-20 Про телефоны.md",
+      "Diary/2024/2024-02-09 О тупизне.md",
+      "Diary/2024/2024-02-08 Еще новости.md",
+      "Diary/2024/2024-02-01 Обратно к норме.md",
+      "Diary/2024/2024-01-19 Про холод.md",
+      "Diary/2024/2024-01-31 Про жопу.md",
+      "Diary/2024/2024-01-07 Новости.md",
+      "Diary/2024/2024-01-15 Снова про что бы вы думали.md",
+      "Diary/2024/2024-01-04 Новости.md",
+      "Diary/2023/img/2023-06-28 Angular.js.md",
+      "Diary/2023/2023-12-25 Наконец выходные.md",
+      "Diary/2023/2023-12-27 Сука сосед.md",
+      "Diary/2023/2023-12-18 Немного новостей.md",
+      "Diary/2023/2023-12-23 Про ограничение скорости на велодорожке.md",
+      "Diary/2023/2023-12-16 Про погоду и шлем.md",
+      "Diary/2023/2023-12-13 Про соседа часть 2.md",
+      "Diary/2023/2023-12-04 По соседа.md",
+      "Diary/2023/2023-12-04 Новости.md",
+      "Diary/2023/2023-11-30 Новостишки.md",
+      "Diary/2023/2023-12-01 Neuroticfish.md",
+      "Diary/2023/2023-11-27 Про соседку.md",
+      "Diary/2023/2023-11-23 Постный пост.md",
+      "Diary/2023/2023-11-23 Про трансух.md",
+      "Diary/2023/2023-11-26 Спасение торта.md",
+      "Diary/2023/2023-11-20 Про ванну.md",
+      "Diary/2023/2023-11-19 Маленькие вещи делающие меня счастливее.md",
+      "Diary/2023/2023-11-11 О толканах.md",
+      "Diary/2023/2023-11-18 Про блядские танки.md",
+      "Diary/2023/2023-11-08 Сегодня.md",
+      "Diary/2023/2023-11-07 Арпетол.md",
+      "Diary/2023/2023-11-08 Полочка.md",
+      "Diary/2023/2023-11-02 Про меня.md",
+      "Diary/2023/2023-10-25 Про бадминтон.md",
+      "Diary/2023/2023-10-25 Еще раз о машине мечты.md",
+      "Diary/2023/2023-10-31 Вишлист.md",
+      "Diary/2023/2023-10-29 Как перестать все и начать что-то.md",
+      "Diary/2023/2023-10-23 ДТП.md",
+      "Diary/2023/2023-10-19 Мама, я не могу больше пить.md",
+      "Diary/2023/2023-10-05 О электронаркотиках.md",
+      "Diary/2023/2023-10-11 Про налоги.md",
+      "Diary/2023/2023-10-10 Про безопасность моноколеса.md",
+      "Diary/2023/2023-10-04 Про улиток.md",
+      "Diary/2023/2023-10-07 Про ретрит.md",
+      "Diary/2023/2023-09-28 Про парк.md",
+      "Diary/2023/2023-10-03 Про старых извращенцев.md",
+      "Diary/2023/2023-09-27 Про Беларусь в моей жизни.md",
+      "Diary/2023/2023-09-25 Не долго я молчал про колесо.md",
+      "Diary/2023/2023-09-20 Последнее про колесо.md",
+      "Diary/2023/2023-09-19 На колесе на работу.md",
+      "Diary/2023/2023-09-12 Про работу.md",
+      "Diary/2023/2023-09-18 Опять про колесо.md",
+      "Diary/2023/2023-09-11 Снова про моноколесо.md",
+      "Diary/2023/2023-09-10 Про веревочный парк.md",
+      "Diary/2023/2023-09-09 Робот пылесос.md",
+      "Diary/2023/2023-08-31 Про собес.md",
+      "Diary/2023/2023-09-05 Про всякое.md",
+      "Diary/2023/2023-09-03 Сегодня про котика.md",
+      "Diary/2023/2023-08-30 Сегодня новости.md",
+      "Diary/2023/2023-08-29 Про моноколесо.md",
+      "Diary/2023/2023-08-12 Тбилиси даже не пытается.md",
+      "Diary/2023/2023-08-15 Про наебалово.md",
+      "Diary/2023/2023-08-23 Про кризис возраста.md",
+      "Diary/2023/2023-08-27 Про моноколесо.md",
+      "Diary/2023/2023-08-08 Про инцелов.md",
+      "Diary/2023/2023-08-04 Про жабу.md",
+      "Diary/2023/2023-07-28 Сходил на работу.md",
+      "Diary/2023/2023-06-28 Жаркий Вильнюс.md",
+      "Diary/2023/2023-06-09 Праздник.md",
+      "Diary/2023/2023-06-08 Про кошачьи болезни.md",
+      "Diary/2023/2023-06-02 Про уборку.md",
+      "Diary/2023/2023-05-14 Про шампанское.md",
+      "Diary/2023/2023-05-07 О премиуме без премиума.md",
+      "Diary/2023/2023-05-09 Про коробкомобили.md",
+      "Diary/2023/2023-05-08 Снова про самокат.md",
+      "Diary/2023/2023-04-24 О маленьких радостях.md",
+      "Diary/2023/2023-04-18 Про паспиртукас.md",
+      "Diary/2023/2023-04-19 Про Сильвану и литературу.md",
+      "Diary/2023/2023-04-12 Про Сильвану.md",
+      "Diary/2023/2023-04-01 Непредумышленный расизм.md",
+      "Diary/2023/2023-04-11 Про отца.md",
+      "Diary/2023/2023-04-07 Еще немного про работу.md",
+      "Diary/2023/2023-04-10 Про кролика.md",
+      "Diary/2023/2023-04-05 Продолжение истории про расизм.md",
+      "Diary/2023/2023-04-04 Годовщина.md",
+      "Diary/2023/2023-03-28 Про фломастеры.md",
+      "Diary/2023/2023-03-29 На земле кончается нефть.md",
+      "Diary/2023/2023-03-22 Новости.md",
+      "Diary/2023/2023-03-04 Про кухню.md",
+      "Diary/2023/2023-03-02 Про сортировку мусора.md",
+      "Diary/2025/2025-12-30 Шимталапис.md",
+      "Diary/2025/2026-01-07 Mikrotik.md",
+      "Diary/2025/2025-12-31 Поздравления.md",
+      "Diary/2025/2025-12-29 Про недвижимость.md",
+      "Diary/2025/2025-12-21 Не ждали.md",
+      "Diary/2025/2025-12-28 Потерял машину.md",
+      "Diary/2025/2025-11-30 Про серфинг.md",
+      "Diary/2025/2025-12-16 Про современные проблемы.md",
+      "Diary/2025/2025-11-30 Про австралийцев.md",
+      "Diary/2025/2025-11-25 Трудоголизм.md",
+      "Diary/2025/2025-11-20 Black chic.md",
+      "Diary/2025/2025-11-24 Про brainfart.md",
+      "Diary/2025/2025-11-23 Табак.md",
+      "Diary/2025/2025-11-12 Вишлист.md",
+      "Diary/2025/2025-11-11 Про велосипед.md",
+      "Diary/2025/2025-11-02 Про чувства.md",
+      "Diary/2025/2025-10-30 О грустном.md",
+      "Diary/2025/2025-10-29 Про еду.md",
+      "Diary/2025/2025-10-28 Про здоровье.md",
+      "Diary/2025/2025-10-27 Новости.md",
+      "Diary/2025/2025-10-13 Про компьютерную игру.md",
+      "Diary/2025/2025-10-20 Про AI.md",
+      "Diary/2025/2025-10-20 Про велосипед.md",
+      "Diary/2025/2025-10-15 Про V.md",
+      "Diary/2025/2025-10-11 Power Toys.md",
+      "Diary/2025/2025-10-08 Про запахи.md",
+      "Diary/2025/2025-10-09 Гордость за Литву.md",
+      "Diary/2025/2025-10-06 Новости.md",
+      "Diary/2025/2025-09-30 Волосы.md",
+      "Diary/2025/2025-10-01 Про волосы на жопе.md",
+      "Diary/2025/2025-09-26 Про музыку.md",
+      "Diary/2025/2025-09-18 Про температуру.md",
+      "Diary/2025/2025-09-22 Про часы.md",
+      "Diary/2025/2025-09-21 Про косметику.md",
+      "Diary/2025/2025-09-10 L2.md",
+      "Diary/2025/2025-09-17 Про женщин.md",
+      "Diary/2025/2025-09-15 Про квартиры.md",
+      "Diary/2025/2025-09-03 Про женщин.md",
+      "Diary/2025/2025-09-09 Хуестиль.md",
+      "Diary/2025/2025-09-08 Новости.md",
+      "Diary/2025/2025-09-02 Про школу.md",
+      "Diary/2025/2025-08-12 L.md",
+      "Diary/2025/2025-08-11 Новости.md",
+      "Diary/2025/2025-07-20 Про Франкфурт.md",
+      "Diary/2025/2025-08-04 Рыбные новости.md",
+      "Diary/2025/2025-08-04 Второе свидание.md",
+      "Diary/2025/2025-07-28 Рич бич.md",
+      "Diary/2025/2025-07-28 Про женщин.md",
+      "Diary/2025/2025-07-19 Про гомофобию.md",
+      "Diary/2025/2025-07-16 Выебанное.md",
+      "Diary/2025/2025-07-14 Про свиданку.md",
+      "Diary/2025/2025-07-01 Про важные вещи.md",
+      "Diary/2025/2025-07-14 Про очечи.md",
+      "Diary/2025/2025-07-11 Новости.md",
+      "Diary/2025/2025-07-09 Про честность.md",
+      "Diary/2025/2025-07-07 Про Польшу.md",
+      "Diary/2025/2025-06-27 Про время.md",
+      "Diary/2025/2025-06-24 Про фильтры.md",
+      "Diary/2025/2025-06-24 Опять про велосипед.md",
+      "Diary/2025/2025-06-18 Про Юлю.md",
+      "Diary/2025/2025-06-23 Про велосипеды.md",
+      "Diary/2025/2025-06-13 Про мразей.md",
+      "Diary/2025/2025-06-07 Прощание.md",
+      "Diary/2025/2025-06-06 Вера в человечество.md",
+      "Diary/2025/2025-05-29 Менее положительная история.md",
+      "Diary/2025/2025-05-29 Про обнимашки.md",
+      "Diary/2025/2025-05-27 Про фалосипед.md",
+      "Diary/2025/2025-05-24 Про работу.md",
+      "Diary/2025/2025-05-18 Про день.md",
+      "Diary/2025/2025-05-15 Про неизбежность.md",
+      "Diary/2025/2025-05-11 Ебет.md",
+      "Diary/2025/2025-05-10 Опять личная жизнь.md",
+      "Diary/2025/2025-05-01 Популярная тема.md",
+      "Diary/2025/2025-05-04 Про Гарри Поттера.md",
+      "Diary/2025/2025-04-26 Садили лес.md",
+      "Diary/2025/2025-04-22 Токсичный пост.md",
+      "Diary/2025/2025-04-20 У меня много тем для постов.md",
+      "Diary/2025/2025-04-15 Продолжим тему.md",
+      "Diary/2025/2025-04-07 Про мечты.md",
+      "Diary/2025/2025-04-13 Про Сянин ДР.md",
+      "Diary/2025/2025-04-14 Про собаку.md",
+      "Diary/2025/2025-04-13 Про 3-е свидание.md",
+      "Diary/2025/2025-04-13 Запомните этот твит.md",
+      "Diary/2025/2025-04-06 Про отца и заботу.md",
+      "Diary/2025/2025-04-06 Про смерть.md",
+      "Diary/2025/2025-04-01 Про велосипед.md",
+      "Diary/2025/2025-03-31 Про волосы.md",
+      "Diary/2025/2025-03-31 Про велосипеды ебаные.md",
+      "Diary/2025/2025-03-22 Про стэндап в реальной жизни.md",
+      "Diary/2025/2025-03-29 Новости.md",
+      "Diary/2025/2025-03-22 Про машины.md",
+      "Diary/2025/2025-03-22 О широте души.md",
+      "Diary/2025/2025-03-20 Про эболу.md",
+      "Diary/2025/2025-03-16 Я все продал.md",
+      "Diary/2025/2025-03-15 Про пирожки.md",
+      "Diary/2025/2025-03-12 Новости.md",
+      "Diary/2025/2025-03-13 Про хлебушек.md",
+      "Diary/2025/2025-03-09 Про нечто хтонической.md",
+      "Diary/2025/2025-03-06 Новости про дом.md",
+      "Diary/2025/2025-03-09 Про нечто хтонической 1.md",
+      "Diary/2025/2025-03-03 Про Microsoft 365.md",
+      "Diary/2025/2025-03-06 Про страву.md",
+      "Diary/2025/2025-03-03 Новости.md",
+      "Diary/2025/2025-02-27 Про мыло.md",
+      "Diary/2025/2025-02-24 Про планы.md",
+      "Diary/2025/2025-02-25 Про женские тиктоки.md",
+      "Diary/2025/2025-02-22 Про аквариум.md",
+      "Diary/2025/2025-02-17 Про машину.md",
+      "Diary/2025/2025-02-17 Про Steam.md",
+      "Diary/2025/2025-02-02 Про велосипед.md",
+      "Diary/2025/2025-02-11 Про родительское собрание.md",
+      "Diary/2025/2025-02-09 Про друзей.md",
+      "Diary/2025/2025-02-03 Про поездку в Минск.md",
+      "Diary/2025/2025-02-02 Про Home Assistant.md",
+      "Diary/2025/2025-02-01 Про золото.md",
+      "Diary/2025/2025-01-31 Про авокадо.md",
+      "Diary/2025/2025-01-13 Про VPN.md",
+      "Diary/2025/2025-01-30 Про маму.md",
+      "Diary/2025/2025-01-29 Немного новостей.md",
+      "Diary/2025/2025-01-24 Все пошло не по плану.md",
+      "Diary/2025/2025-01-23 Про ghost guns.md",
+      "Diary/2025/2025-01-19 Про чтение.md",
+      "Diary/2025/2025-01-22 Всякое.md",
+      "Diary/2025/2025-01-18 Про цены.md",
+      "Diary/2025/2025-01-17 Про развод.md",
+      "Diary/2025/2025-01-15 Про компьютер за 50 евро.md",
+      "Diary/2025/2025-01-16 Про гриль.md",
+      "Diary/2025/2025-01-14 О втулках от туалетной бумаги.md",
+      "Diary/2025/2025-01-13 Про новый проект.md",
+      "Diary/2025/2025-01-13 Про волосы.md",
+      "Diary/2025/2025-01-09 Я на бенче.md",
+      "Diary/2025/2025-01-10 Про пять евро.md",
+      "Diary/2025/2025-01-07 Про личную жизнь.md",
+      "Diary/2025/2025-01-04 Новости.md"
+    ]
+  },
+  {
+    "tag": "rm",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/RM/Useful Links.md"
+    ]
+  },
+  {
+    "tag": "epam",
+    "tagCount": 3,
+    "relativePaths": [
+      "Work/RM/Useful Links.md",
+      "Work/Knowledge base/Onboarding buddy KB.md",
+      "Diary/2025/2025-04-26 Садили лес.md"
+    ]
+  },
+  {
+    "tag": "onboardingbuddy",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Knowledge base/Onboarding buddy KB.md"
+    ]
+  },
+  {
+    "tag": "onboarding",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Knowledge base/Onboarding buddy KB.md"
+    ]
+  },
+  {
+    "tag": "vpn",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Knowledge base/VPN list.md"
+    ]
+  },
+  {
+    "tag": "work",
+    "tagCount": 24,
+    "relativePaths": [
+      "Work/Knowledge base/VPN list.md",
+      "Work/Projects/Experts community/Experts community.md",
+      "Diary/2024/2024-09-24 Про то как Бо допизделся.md",
+      "Diary/2024/2024-06-10 Про армян.md",
+      "Diary/2024/2024-03-08 Demo.md",
+      "Diary/2023/img/2023-06-28 Angular.js.md",
+      "Diary/2023/2023-08-31 Про собес.md",
+      "Diary/2023/2023-07-28 Сходил на работу.md",
+      "Diary/2023/2023-04-24 О маленьких радостях.md",
+      "Diary/2023/2023-04-01 Непредумышленный расизм.md",
+      "Diary/2023/2023-04-07 Еще немного про работу.md",
+      "Diary/2023/2023-04-05 Продолжение истории про расизм.md",
+      "Diary/2025/2025-05-24 Про работу.md",
+      "Diary/2025/2025-01-13 Про новый проект.md"
+    ]
+  },
+  {
+    "tag": "slb",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SLB-VTC MyDigitalProduct/SLB-VTC MyDigitalProduct.md"
+    ]
+  },
+  {
+    "tag": "prompt",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SLB-VTC MyDigitalProduct/Project description for Prompts.md"
+    ]
+  },
+  {
+    "tag": "env",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SLB-VTC MyDigitalProduct/ENV.md"
+    ]
+  },
+  {
+    "tag": "ai",
+    "tagCount": 5,
+    "relativePaths": [
+      "Work/Projects/SLB-VTC MyDigitalProduct/AI conserns.md",
+      "Work/ASMT/D4/Questions/_AI context.md",
+      "KB 🗂/AI Developer tools.md",
+      "Diary/2025/2025-10-20 Про AI.md"
+    ]
+  },
+  {
+    "tag": "api",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SuperG/Technical tasks/2025-11-07 Integrate submit answer API.md"
+    ]
+  },
+  {
+    "tag": "integration",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SuperG/Technical tasks/2025-11-07 Integrate submit answer API.md"
+    ]
+  },
+  {
+    "tag": "questions",
+    "tagCount": 9,
+    "relativePaths": [
+      "Work/Projects/SuperG/Technical tasks/2025-11-07 Integrate submit answer API.md",
+      "Work/Interview/For sort/RSSchool.md",
+      "Work/Interview/For sort/D1-D2 CoreJs.md",
+      "Work/Interview/4.3 RxJS.md",
+      "Work/Interview/4. Typescript, Angular and RxJs questions.md",
+      "Work/Interview/4.2 Angular.md",
+      "Work/Interview/4.1 Typescript.md",
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D3/ASMT L3 questions of other teams.md"
+    ]
+  },
+  {
+    "tag": "answers",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SuperG/Technical tasks/2025-11-07 Integrate submit answer API.md"
+    ]
+  },
+  {
+    "tag": "superg",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SuperG/Technical tasks/2025-11-07 Integrate submit answer API.md"
+    ]
+  },
+  {
+    "tag": "invoice",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SuperG/Email templates/Invoice.md"
+    ]
+  },
+  {
+    "tag": "template",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/Projects/SuperG/Email templates/Invoice.md",
+      "KB 🗂/English/Email templates.md"
+    ]
+  },
+  {
+    "tag": "email",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SuperG/Email templates/Invoice.md"
+    ]
+  },
+  {
+    "tag": "jira_ticket_number",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/SuperG/Development documentation/Development documentation.md"
+    ]
+  },
+  {
+    "tag": "plan",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/Experts community/Building plan.md"
+    ]
+  },
+  {
+    "tag": "experts_community",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/Projects/Experts community/Building plan.md",
+      "Work/Projects/Experts community/Experts community.md"
+    ]
+  },
+  {
+    "tag": "todo",
+    "tagCount": 8,
+    "relativePaths": [
+      "Work/Projects/Experts community/Building plan.md",
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Personal/Want to do.md",
+      "Personal/Want to buy.md",
+      "Personal/!TODO.md",
+      "Diary/2025/2025-10-20 Про AI.md",
+      "Diary/2025/2025-09-30 Волосы.md",
+      "Diary/2025/2025-09-22 Про часы.md"
+    ]
+  },
+  {
+    "tag": "project",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Projects/Experts community/Experts community.md"
+    ]
+  },
+  {
+    "tag": "interview",
+    "tagCount": 16,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md",
+      "Work/Interview/For sort/RSSchool.md",
+      "Work/Interview/For sort/D1-D2 CoreJs.md",
+      "Work/Interview/9. Eng EX.md",
+      "Work/Interview/4.3 RxJS.md",
+      "Work/Interview/8. CI and CD.md",
+      "Work/Interview/6. Software quality questions.md",
+      "Work/Interview/7. Object oriented programming principles.md",
+      "Work/Interview/5. Node.js questions.md",
+      "Work/Interview/4. Typescript, Angular and RxJs questions.md",
+      "Work/Interview/4.2 Angular.md",
+      "Work/Interview/3. CSS and SCSS questions.md",
+      "Work/Interview/2. HTML questions.md",
+      "Work/Interview/1. Core JS questions.md",
+      "Work/Interview/1.1 JS coding tasks.md",
+      "Work/Interview/0. Interview template.md"
+    ]
+  },
+  {
+    "tag": "nodejs",
+    "tagCount": 4,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md",
+      "Work/Interview/5. Node.js questions.md",
+      "Work/Interview/0. Interview template.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Node.js Service Development.md"
+    ]
+  },
+  {
+    "tag": "nestjs",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md",
+      "Work/Interview/5.1 Nest.js.md"
+    ]
+  },
+  {
+    "tag": "docker",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md",
+      "KB 🗂/Docker/Docker install wsl2.md"
+    ]
+  },
+  {
+    "tag": "sql",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md"
+    ]
+  },
+  {
+    "tag": "javacript",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md"
+    ]
+  },
+  {
+    "tag": "typescript",
+    "tagCount": 4,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md",
+      "Work/Interview/4. Typescript, Angular and RxJs questions.md",
+      "Work/Interview/4.1 Typescript.md",
+      "KB 🗂/Angular tech check plan.md"
+    ]
+  },
+  {
+    "tag": "codingtasks",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Interview/Node & Nest.js interview.md"
+    ]
+  },
+  {
+    "tag": "js",
+    "tagCount": 9,
+    "relativePaths": [
+      "Work/Interview/For sort/RSSchool.md",
+      "Work/Interview/For sort/D1-D2 CoreJs.md",
+      "Work/Interview/1. Core JS questions.md",
+      "Work/Interview/1.1 JS coding tasks.md",
+      "Work/Interview/0. Interview template.md",
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/Questions/2. JavaScript & TypeScript.md",
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md",
+      "Work/ASMT/D3/1. Common tech expertise.md"
+    ]
+  },
+  {
+    "tag": "html",
+    "tagCount": 4,
+    "relativePaths": [
+      "Work/Interview/For sort/RSSchool.md",
+      "Work/Interview/2. HTML questions.md",
+      "Work/Interview/0. Interview template.md",
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md"
+    ]
+  },
+  {
+    "tag": "css",
+    "tagCount": 5,
+    "relativePaths": [
+      "Work/Interview/For sort/RSSchool.md",
+      "Work/Interview/3. CSS and SCSS questions.md",
+      "Work/Interview/0. Interview template.md",
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md"
+    ]
+  },
+  {
+    "tag": "ts",
+    "tagCount": 11,
+    "relativePaths": [
+      "Work/Interview/For sort/D1-D2 CoreJs.md",
+      "Work/Interview/5.1 Nest.js.md",
+      "Work/Interview/4. Typescript, Angular and RxJs questions.md",
+      "Work/Interview/4.2 Angular.md",
+      "Work/Interview/4.1 Typescript.md",
+      "Work/Interview/0. Interview template.md",
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/Questions/2. JavaScript & TypeScript.md",
+      "Work/ASMT/D3/ASMT L3 questions of other teams.md",
+      "Work/ASMT/D3/1. Common tech expertise.md",
+      "KB 🗂/TypeScript/Index.md"
+    ]
+  },
+  {
+    "tag": "rxjs",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/Interview/4.3 RxJS.md",
+      "Work/Interview/4. Typescript, Angular and RxJs questions.md"
+    ]
+  },
+  {
+    "tag": "cicd",
+    "tagCount": 3,
+    "relativePaths": [
+      "Work/Interview/8. CI and CD.md",
+      "Work/Interview/0. Interview template.md",
+      "KB 🗂/EngX/CI&CD.md"
+    ]
+  },
+  {
+    "tag": "oop",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Interview/7. Object oriented programming principles.md"
+    ]
+  },
+  {
+    "tag": "websockets",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/Interview/5.1 Nest.js.md",
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "rest",
+    "tagCount": 5,
+    "relativePaths": [
+      "Work/Interview/5. Node.js questions.md",
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Node.js Service Development.md",
+      "Work/ASMT/D3/1. Common tech expertise.md"
+    ]
+  },
+  {
+    "tag": "angular",
+    "tagCount": 7,
+    "relativePaths": [
+      "Work/Interview/4. Typescript, Angular and RxJs questions.md",
+      "Work/Interview/4.2 Angular.md",
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md",
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md",
+      "KB 🗂/Angular tech check plan.md",
+      "Diary/2023/img/2023-06-28 Angular.js.md",
+      "AI/Prompts/🧪 Angular Unit Test Prompt Template.md"
+    ]
+  },
+  {
+    "tag": "scss",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Interview/3. CSS and SCSS questions.md"
+    ]
+  },
+  {
+    "tag": "aws",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/Interview/0. Interview template.md"
+    ]
+  },
+  {
+    "tag": "first",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/UT Abbreviations.md"
+    ]
+  },
+  {
+    "tag": "3a",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/UT Abbreviations.md"
+    ]
+  },
+  {
+    "tag": "aaa",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/UT Abbreviations.md"
+    ]
+  },
+  {
+    "tag": "context",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/_AI context.md"
+    ]
+  },
+  {
+    "tag": "d4",
+    "tagCount": 3,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/D4 Lead software engineer position requirements.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Frameworks.md"
+    ]
+  },
+  {
+    "tag": "asmt",
+    "tagCount": 5,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/D4 Lead software engineer position requirements.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Index.md",
+      "Work/ASMT/D4/Lead ASMT preparation plan/Frameworks.md",
+      "Work/ASMT/D3/ASMT L3 questions of other teams.md"
+    ]
+  },
+  {
+    "tag": "microservice",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/Questions.md"
+    ]
+  },
+  {
+    "tag": "monorepo",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "monolith",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/Questions.md",
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "developerquestions",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "documentation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "aianswers",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "codereviews",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md",
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "automation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "architecturaldecisions",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "projectmanagement",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "phasecompliance",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "teamtraining",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "buddysystem",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "deadlinemanagement",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "accountability",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "mentorship",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "taskprioritization",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "transparency",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "collaboration",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "learningfrommistakes",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "riskcommunication",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "stakeholderengagement",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "teamstrengths",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "progressmonitoring",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "clearinstructions",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "milestonecelebration",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "burnoutprevention",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "goalalignment",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "failureanalysis",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "resilience",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md",
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "recoveryplanning",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "standups",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "sprintplanning",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md",
+      "Daily notes/2026-01-27.md"
+    ]
+  },
+  {
+    "tag": "retrospectives",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "backloggrooming",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "feedbackculture",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "teambonding",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "privatediscussions",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "expectations",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "escalation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "riskmitigation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "stakeholdercommunication",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "specificity",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "actionablesuggestions",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "followup",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "constructivecriticism",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "googlevsai",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "aiforengineering",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "sdlc",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md",
+      "KB 🗂/EngX/Basic SDLC.md"
+    ]
+  },
+  {
+    "tag": "onboardingchallenges",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "conflictresolution",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "servicearchitecture",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "taskdelegation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "teammotivation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "setbacks",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "scrumceremonies",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "teamtrust",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "teamperformance",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "deadlinerisks",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "performancefeedback",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/5. Team Management & Leadership.md"
+    ]
+  },
+  {
+    "tag": "lazyloading",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "codesplitting",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "debouncethrottle",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "webworkers",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "greenfielddevelopment",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "react",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md",
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md"
+    ]
+  },
+  {
+    "tag": "vue",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "svelte",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "performanceoptimization",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "userexperience",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "animation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "loadtime",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "csrf",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "xss",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "sqlinjection",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "samesitecookies",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "crossoriginresourcesharing",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "preflightrequest",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "websecurity",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "smoketests",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "featureflags",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "ci_cd",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "monitoring",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "automatedtesting",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "lighthouse",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "sonarqube",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "alerting",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "distributedtracing",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "prometheus",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "grafana",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "javascriptperformance",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "frameworkselection",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "railmodel",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "cors",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "canarytesting",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "servicehealth",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "projectquality",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/4. Performance & Quality Assurance.md"
+    ]
+  },
+  {
+    "tag": "scalability",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "technologydiversity",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "continuousdeployment",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "independentdeployments",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "codesharing",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "microfrontends",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "microservices",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "polling",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "realtimeupdates",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "lowlatency",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "statelesscommunication",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "graphql",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "caching",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "flexiblequeries",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "overfetching",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "ssr",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "clientsiderendering",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "serversiderendering",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "seo",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "creationalpatterns",
+    "tagCount": 7,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md",
+      "KB 🗂/GoF Design Patterns/Creational - Singleton.md",
+      "KB 🗂/GoF Design Patterns/Creational - Prototype.md",
+      "KB 🗂/GoF Design Patterns/Creational - Factory Method.md",
+      "KB 🗂/GoF Design Patterns/2. Creational Patterns.md",
+      "KB 🗂/GoF Design Patterns/Creational - Builder.md",
+      "KB 🗂/GoF Design Patterns/Creational - Abstract Factory.md"
+    ]
+  },
+  {
+    "tag": "structuralpatterns",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "behavioralpatterns",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "factorypattern",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "decoratorpattern",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "strategypattern",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "eventdrivensystems",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "microservicesarchitecture",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "apparchitecture",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "csr",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "designpatterns",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "observerpattern",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/3. Architecture & Design Patterns.md"
+    ]
+  },
+  {
+    "tag": "closure",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/2. JavaScript & TypeScript.md"
+    ]
+  },
+  {
+    "tag": "generator",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/2. JavaScript & TypeScript.md"
+    ]
+  },
+  {
+    "tag": "iterator",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/2. JavaScript & TypeScript.md"
+    ]
+  },
+  {
+    "tag": "structuraltyping",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/2. JavaScript & TypeScript.md"
+    ]
+  },
+  {
+    "tag": "nominaltyping",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/2. JavaScript & TypeScript.md"
+    ]
+  },
+  {
+    "tag": "crp",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md"
+    ]
+  },
+  {
+    "tag": "accessibility",
+    "tagCount": 2,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md",
+      "KB 🗂/Web Accessibility/Levels of accessibility.md"
+    ]
+  },
+  {
+    "tag": "a11y",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Questions/1. Frontend & UI Development.md"
+    ]
+  },
+  {
+    "tag": "requirements",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/D4 Lead software engineer position requirements.md"
+    ]
+  },
+  {
+    "tag": "lead_software_engineer",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/D4 Lead software engineer position requirements.md"
+    ]
+  },
+  {
+    "tag": "service",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Node.js Service Development.md"
+    ]
+  },
+  {
+    "tag": "index",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Lead ASMT preparation plan/Skills/Index.md"
+    ]
+  },
+  {
+    "tag": "lead",
+    "tagCount": 1,
+    "relativePaths": [
+      "Work/ASMT/D4/Lead ASMT preparation plan/Index.md"
+    ]
+  },
+  {
+    "tag": "meal",
+    "tagCount": 1,
+    "relativePaths": [
+      "Personal/Рацион.md"
+    ]
+  },
+  {
+    "tag": "food",
+    "tagCount": 1,
+    "relativePaths": [
+      "Personal/Рацион.md"
+    ]
+  },
+  {
+    "tag": "wishlist",
+    "tagCount": 4,
+    "relativePaths": [
+      "Personal/Want to buy.md",
+      "Diary/2023/2023-10-31 Вишлист.md",
+      "Diary/2025/2025-11-12 Вишлист.md"
+    ]
+  },
+  {
+    "tag": "party",
+    "tagCount": 1,
+    "relativePaths": [
+      "Personal/Projects/Вечеринка 2025/Список гостей.md"
+    ]
+  },
+  {
+    "tag": "guests",
+    "tagCount": 1,
+    "relativePaths": [
+      "Personal/Projects/Вечеринка 2025/Список гостей.md"
+    ]
+  },
+  {
+    "tag": "party2023",
+    "tagCount": 4,
+    "relativePaths": [
+      "Personal/Projects/Вечеринка 2023/Список участников.md",
+      "Personal/Projects/Вечеринка 2023/Приглашения.md",
+      "Personal/Projects/Вечеринка 2023/Закупки на вечеринку.md",
+      "Personal/Projects/Вечеринка 2023/TODO.md"
+    ]
+  },
+  {
+    "tag": "self_presentation",
+    "tagCount": 1,
+    "relativePaths": [
+      "Personal/Self presentation.md"
+    ]
+  },
+  {
+    "tag": "barbie",
+    "tagCount": 1,
+    "relativePaths": [
+      "Personal/Presents ideas/Подарки Ольге Владимировне.md"
+    ]
+  },
+  {
+    "tag": "presents",
+    "tagCount": 2,
+    "relativePaths": [
+      "Personal/Presents ideas/Подарки Ольге Владимировне.md",
+      "Personal/Presents ideas/Silvana's presents ideas.md"
+    ]
+  },
+  {
+    "tag": "personal",
+    "tagCount": 6,
+    "relativePaths": [
+      "Personal/Personal info.md",
+      "Diary/2025/2025-07-01 Про важные вещи.md",
+      "Diary/2025/2025-05-11 Ебет.md",
+      "Diary/2025/2025-05-10 Опять личная жизнь.md",
+      "Diary/2025/2025-01-17 Про развод.md"
+    ]
+  },
+  {
+    "tag": "reading_speed",
+    "tagCount": 1,
+    "relativePaths": [
+      "Personal/!Reading speed log.md"
+    ]
+  },
+  {
+    "tag": "books",
+    "tagCount": 2,
+    "relativePaths": [
+      "Personal/!Books.md",
+      "Diary/2025/2025-01-09 Я на бенче.md"
+    ]
+  },
+  {
+    "tag": "googlekeep",
+    "tagCount": 2,
+    "relativePaths": [
+      "Personal/!Google Keep.md",
+      "Personal/!AI.md"
+    ]
+  },
+  {
+    "tag": "googleapps",
+    "tagCount": 2,
+    "relativePaths": [
+      "Personal/!Google Keep.md",
+      "Personal/!AI.md"
+    ]
+  },
+  {
+    "tag": "films",
+    "tagCount": 3,
+    "relativePaths": [
+      "Personal/!Films.md",
+      "Diary/2024/2024-05-10 Про тайну третьей планеты.md"
+    ]
+  },
+  {
+    "tag": "lithuanian",
+    "tagCount": 5,
+    "relativePaths": [
+      "Lithuanian 🇱🇹/A2.2/2024-02-02 Testas 1.md",
+      "Lithuanian 🇱🇹/A2 Exam/2025-06-18 Namu darbas.md",
+      "Lithuanian 🇱🇹/A2 Exam/2025-04-14 Namu darbas.md",
+      "Lithuanian 🇱🇹/A2 Exam/2025-04-14 - Žodynas.md",
+      "Lithuanian 🇱🇹/B1.1/2025-10-19 ND.md"
+    ]
+  },
+  {
+    "tag": "testtask",
+    "tagCount": 1,
+    "relativePaths": [
+      "Lithuanian 🇱🇹/A2.2/2024-02-02 Testas 1.md"
+    ]
+  },
+  {
+    "tag": "homework",
+    "tagCount": 2,
+    "relativePaths": [
+      "Lithuanian 🇱🇹/A2 Exam/2025-06-18 Namu darbas.md",
+      "Lithuanian 🇱🇹/A2 Exam/2025-04-14 Namu darbas.md"
+    ]
+  },
+  {
+    "tag": "vocabulary",
+    "tagCount": 1,
+    "relativePaths": [
+      "Lithuanian 🇱🇹/A2 Exam/2025-04-14 - Žodynas.md"
+    ]
+  },
+  {
+    "tag": "namu_darbas",
+    "tagCount": 1,
+    "relativePaths": [
+      "Lithuanian 🇱🇹/B1.1/2025-10-19 ND.md"
+    ]
+  },
+  {
+    "tag": "wcag_levels",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Web Accessibility/Levels of accessibility.md"
+    ]
+  },
+  {
+    "tag": "aria",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Web Accessibility/Levels of accessibility.md"
+    ]
+  },
+  {
+    "tag": "wcag",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Web Accessibility/Levels of accessibility.md"
+    ]
+  },
+  {
+    "tag": "wsl",
+    "tagCount": 2,
+    "relativePaths": [
+      "KB 🗂/WSL/WSL Commands.md",
+      "KB 🗂/Docker/Docker install wsl2.md"
+    ]
+  },
+  {
+    "tag": "gui",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/WSL/WSL Commands.md"
+    ]
+  },
+  {
+    "tag": "uml",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/UML Class Diagram.md"
+    ]
+  },
+  {
+    "tag": "class_diagram",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/UML Class Diagram.md"
+    ]
+  },
+  {
+    "tag": "transmission",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Transmission.md"
+    ]
+  },
+  {
+    "tag": "postgres",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Postgres/Change password.md"
+    ]
+  },
+  {
+    "tag": "password",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Postgres/Change password.md"
+    ]
+  },
+  {
+    "tag": "residence",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Lithuania/Gyvenamosios vietos deklaracija.md"
+    ]
+  },
+  {
+    "tag": "declaration",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Lithuania/Gyvenamosios vietos deklaracija.md"
+    ]
+  },
+  {
+    "tag": "contacts",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Lithuania/Useful contacts.md"
+    ]
+  },
+  {
+    "tag": "ffmpeg",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Extract audio from record.md"
+    ]
+  },
+  {
+    "tag": "extract_audio",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Extract audio from record.md"
+    ]
+  },
+  {
+    "tag": "linux",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Linux/Linux cheat sheet.md"
+    ]
+  },
+  {
+    "tag": "cheatsheet",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Linux/Linux cheat sheet.md"
+    ]
+  },
+  {
+    "tag": "gof",
+    "tagCount": 8,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/Creational - Singleton.md",
+      "KB 🗂/GoF Design Patterns/Creational - Prototype.md",
+      "KB 🗂/GoF Design Patterns/Creational - Factory Method.md",
+      "KB 🗂/GoF Design Patterns/2. Creational Patterns.md",
+      "KB 🗂/GoF Design Patterns/Creational - Builder.md",
+      "KB 🗂/GoF Design Patterns/3. Structural Patterns.md",
+      "KB 🗂/GoF Design Patterns/Creational - Abstract Factory.md",
+      "KB 🗂/GoF Design Patterns/1. Behavioral Patterns.md"
+    ]
+  },
+  {
+    "tag": "design_patterns",
+    "tagCount": 8,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/Creational - Singleton.md",
+      "KB 🗂/GoF Design Patterns/Creational - Prototype.md",
+      "KB 🗂/GoF Design Patterns/Creational - Factory Method.md",
+      "KB 🗂/GoF Design Patterns/2. Creational Patterns.md",
+      "KB 🗂/GoF Design Patterns/Creational - Builder.md",
+      "KB 🗂/GoF Design Patterns/3. Structural Patterns.md",
+      "KB 🗂/GoF Design Patterns/Creational - Abstract Factory.md",
+      "KB 🗂/GoF Design Patterns/1. Behavioral Patterns.md"
+    ]
+  },
+  {
+    "tag": "singleton",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/Creational - Singleton.md"
+    ]
+  },
+  {
+    "tag": "prototype",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/Creational - Prototype.md"
+    ]
+  },
+  {
+    "tag": "factory_method",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/Creational - Factory Method.md"
+    ]
+  },
+  {
+    "tag": "builder",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/Creational - Builder.md"
+    ]
+  },
+  {
+    "tag": "structural_patterns",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/3. Structural Patterns.md"
+    ]
+  },
+  {
+    "tag": "abstract_factory",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/Creational - Abstract Factory.md"
+    ]
+  },
+  {
+    "tag": "behavioral_patterns",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/GoF Design Patterns/1. Behavioral Patterns.md"
+    ]
+  },
+  {
+    "tag": "git",
+    "tagCount": 4,
+    "relativePaths": [
+      "KB 🗂/GitHub Branch Protection Setup.md",
+      "KB 🗂/Git/Unchanged.md",
+      "KB 🗂/Git/Git cheat sheet.md",
+      "KB 🗂/Aliases list.md"
+    ]
+  },
+  {
+    "tag": "github",
+    "tagCount": 2,
+    "relativePaths": [
+      "KB 🗂/GitHub Branch Protection Setup.md",
+      "Configs/Khlebko.com DNS.md"
+    ]
+  },
+  {
+    "tag": "klipper",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Creality K1/Printer config.md"
+    ]
+  },
+  {
+    "tag": "creality_k1",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Creality K1/Printer config.md"
+    ]
+  },
+  {
+    "tag": "printer_cfg",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Creality K1/Printer config.md"
+    ]
+  },
+  {
+    "tag": "unittesting",
+    "tagCount": 2,
+    "relativePaths": [
+      "KB 🗂/EngX/Unit Testing.md",
+      "AI/Prompts/🧪 Angular Unit Test Prompt Template.md"
+    ]
+  },
+  {
+    "tag": "pdca",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/EngX/PDCA.md"
+    ]
+  },
+  {
+    "tag": "lean",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/EngX/Lean.md"
+    ]
+  },
+  {
+    "tag": "code_quality",
+    "tagCount": 2,
+    "relativePaths": [
+      "KB 🗂/EngX/Code review.md",
+      "KB 🗂/EngX/Code Quality Metrics.md"
+    ]
+  },
+  {
+    "tag": "codereview",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/EngX/Code review.md"
+    ]
+  },
+  {
+    "tag": "cd",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/EngX/CI&CD.md"
+    ]
+  },
+  {
+    "tag": "agile",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/EngX/CI&CD.md"
+    ]
+  },
+  {
+    "tag": "vacation",
+    "tagCount": 3,
+    "relativePaths": [
+      "KB 🗂/English/Email templates.md",
+      "Diary/2024/2024-03-17 Про отпуск.md"
+    ]
+  },
+  {
+    "tag": "request",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/English/Email templates.md"
+    ]
+  },
+  {
+    "tag": "ooo",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/English/Email templates.md"
+    ]
+  },
+  {
+    "tag": "bash",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Development bash commands.md"
+    ]
+  },
+  {
+    "tag": "template_outlet",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Angular/Template Outlet Usage.md"
+    ]
+  },
+  {
+    "tag": "unit_testing",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Angular/Testing Commands.md"
+    ]
+  },
+  {
+    "tag": "jasmine",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Angular/Testing Commands.md"
+    ]
+  },
+  {
+    "tag": "chatgpt",
+    "tagCount": 2,
+    "relativePaths": [
+      "KB 🗂/AI Developer tools.md",
+      "Diary/2023/img/2023-06-28 Angular.js.md"
+    ]
+  },
+  {
+    "tag": "techcheck",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Angular tech check plan.md"
+    ]
+  },
+  {
+    "tag": "git_alias",
+    "tagCount": 1,
+    "relativePaths": [
+      "KB 🗂/Aliases list.md"
+    ]
+  },
+  {
+    "tag": "l",
+    "tagCount": 6,
+    "relativePaths": [
+      "Diary/2026-01-26 Про признания.md",
+      "Diary/2025/2025-11-23 Табак.md",
+      "Diary/2025/2025-10-29 Про еду.md",
+      "Diary/2025/2025-10-15 Про V.md",
+      "Diary/2025/2025-09-10 L2.md",
+      "Diary/2025/2025-08-12 L.md"
+    ]
+  },
+  {
+    "tag": "minsk",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/Про оплати.md"
+    ]
+  },
+  {
+    "tag": "addiction",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/2024-12-27 Про аддикшн.md"
+    ]
+  },
+  {
+    "tag": "obsidian",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/2024-11-24 Больничка.md"
+    ]
+  },
+  {
+    "tag": "shit",
+    "tagCount": 3,
+    "relativePaths": [
+      "Diary/2024/2024-11-24 Больничка.md",
+      "Diary/2025/2025-06-13 Про мразей.md"
+    ]
+  },
+  {
+    "tag": "thinkpad",
+    "tagCount": 4,
+    "relativePaths": [
+      "Diary/2024/2024-11-19 Про компьютеры.md",
+      "Diary/2025/2025-02-03 Про поездку в Минск.md"
+    ]
+  },
+  {
+    "tag": "cancer",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/2024-11-01 Про маму.md"
+    ]
+  },
+  {
+    "tag": "news",
+    "tagCount": 38,
+    "relativePaths": [
+      "Diary/2024/2024-10-26 Новости и анонсы.md",
+      "Diary/2024/2024-02-08 Еще новости.md",
+      "Diary/2024/2024-02-01 Обратно к норме.md",
+      "Diary/2024/2024-01-07 Новости.md",
+      "Diary/2023/2023-12-25 Наконец выходные.md",
+      "Diary/2023/2023-12-18 Немного новостей.md",
+      "Diary/2023/2023-12-04 Новости.md",
+      "Diary/2023/2023-11-30 Новостишки.md",
+      "Diary/2023/2023-10-29 Как перестать все и начать что-то.md",
+      "Diary/2023/2023-09-05 Про всякое.md",
+      "Diary/2023/2023-08-30 Сегодня новости.md",
+      "Diary/2023/2023-04-24 О маленьких радостях.md",
+      "Diary/2023/2023-04-04 Годовщина.md",
+      "Diary/2023/2023-03-22 Новости.md",
+      "Diary/2025/2025-09-08 Новости.md",
+      "Diary/2025/2025-08-11 Новости.md",
+      "Diary/2025/2025-07-11 Новости.md",
+      "Diary/2025/2025-04-20 У меня много тем для постов.md",
+      "Diary/2025/2025-03-29 Новости.md",
+      "Diary/2025/2025-03-12 Новости.md",
+      "Diary/2025/2025-01-04 Новости.md"
+    ]
+  },
+  {
+    "tag": "hairtransplantation",
+    "tagCount": 5,
+    "relativePaths": [
+      "Diary/2024/2024-10-23 Про мои волосы.md",
+      "Diary/2025/2025-03-31 Про волосы.md",
+      "Diary/2025/2025-01-13 Про волосы.md"
+    ]
+  },
+  {
+    "tag": "euc",
+    "tagCount": 44,
+    "relativePaths": [
+      "Diary/2024/2024-09-04 Снова про колесо.md",
+      "Diary/2024/2024-07-26 Про моноколеса.md",
+      "Diary/2024/2024-07-02 Про моноколесо.md",
+      "Diary/2024/2024-06-28 Про Минск.md",
+      "Diary/2024/2024-05-23 Про моноколесо.md",
+      "Diary/2024/2024-05-08 Про что бы вы думали.md",
+      "Diary/2024/2024-05-04 Про велосипед.md",
+      "Diary/2024/2024-04-25 Про кроссовочки.md",
+      "Diary/2024/2024-03-18 Про самокат.md",
+      "Diary/2024/2024-02-28 Про ловушку.md",
+      "Diary/2024/2024-02-13 Снова про моноколесо.md",
+      "Diary/2024/2024-01-15 Снова про что бы вы думали.md",
+      "Diary/2023/2023-12-18 Немного новостей.md",
+      "Diary/2023/2023-12-23 Про ограничение скорости на велодорожке.md",
+      "Diary/2023/2023-12-16 Про погоду и шлем.md",
+      "Diary/2023/2023-09-20 Последнее про колесо.md",
+      "Diary/2023/2023-09-19 На колесе на работу.md",
+      "Diary/2023/2023-09-18 Опять про колесо.md",
+      "Diary/2023/2023-09-11 Снова про моноколесо.md",
+      "Diary/2023/2023-08-29 Про моноколесо.md",
+      "Diary/2023/2023-08-27 Про моноколесо.md",
+      "Diary/2025/2025-05-29 Менее положительная история.md",
+      "Diary/2025/2025-05-29 Про обнимашки.md"
+    ]
+  },
+  {
+    "tag": "shitpost",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/2024-08-21 Новая рубрика в светлом блоге.md"
+    ]
+  },
+  {
+    "tag": "travel",
+    "tagCount": 10,
+    "relativePaths": [
+      "Diary/2024/2024-08-17 Про Италию.md",
+      "Diary/2024/2024-04-03 Поездка часть 2.md",
+      "Diary/2024/2024-04-03 Поездка часть 3.md",
+      "Diary/2024/2024-04-03 Поездка часть 1.md",
+      "Diary/2025/2025-07-19 Про гомофобию.md",
+      "Diary/2025/2025-07-07 Про Польшу.md"
+    ]
+  },
+  {
+    "tag": "silvana",
+    "tagCount": 29,
+    "relativePaths": [
+      "Diary/2024/2024-05-29 Про школу.md",
+      "Diary/2024/2024-05-12 Про танцы.md",
+      "Diary/2024/2024-05-10 Про тайну третьей планеты.md",
+      "Diary/2023/2023-10-04 Про улиток.md",
+      "Diary/2023/2023-09-03 Сегодня про котика.md",
+      "Diary/2023/2023-06-09 Праздник.md",
+      "Diary/2023/2023-06-08 Про кошачьи болезни.md",
+      "Diary/2023/2023-06-02 Про уборку.md",
+      "Diary/2023/2023-04-12 Про Сильвану.md",
+      "Diary/2023/2023-04-11 Про отца.md",
+      "Diary/2023/2023-04-10 Про кролика.md",
+      "Diary/2023/2023-04-04 Годовщина.md",
+      "Diary/2023/2023-03-28 Про фломастеры.md",
+      "Diary/2025/2025-04-26 Садили лес.md",
+      "Diary/2025/2025-02-27 Про мыло.md"
+    ]
+  },
+  {
+    "tag": "spotify",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/2024-04-25 Про спотифай.md"
+    ]
+  },
+  {
+    "tag": "3dprinters",
+    "tagCount": 6,
+    "relativePaths": [
+      "Diary/2024/2024-03-22 Про 3D печать.md",
+      "Diary/2024/2024-02-08 Еще новости.md",
+      "Diary/2025/2025-01-23 Про ghost guns.md"
+    ]
+  },
+  {
+    "tag": "onedrive",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/2024-02-24 Onedrive.md",
+      "Diary/2025/2025-03-03 Про Microsoft 365.md"
+    ]
+  },
+  {
+    "tag": "stupidbitches",
+    "tagCount": 10,
+    "relativePaths": [
+      "Diary/2024/2024-02-21 Про техлида.md",
+      "Diary/2023/2023-12-27 Сука сосед.md",
+      "Diary/2023/2023-12-13 Про соседа часть 2.md",
+      "Diary/2023/2023-12-04 По соседа.md",
+      "Diary/2025/2025-02-11 Про родительское собрание.md"
+    ]
+  },
+  {
+    "tag": "phones",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2024/2024-02-20 Про телефоны.md"
+    ]
+  },
+  {
+    "tag": "invitation",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2023/2023-11-26 Спасение торта.md"
+    ]
+  },
+  {
+    "tag": "question",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2023/2023-09-09 Робот пылесос.md"
+    ]
+  },
+  {
+    "tag": "vehicles",
+    "tagCount": 3,
+    "relativePaths": [
+      "Diary/2023/2023-05-09 Про коробкомобили.md",
+      "Diary/2023/2023-05-08 Снова про самокат.md",
+      "Diary/2023/2023-04-18 Про паспиртукас.md"
+    ]
+  },
+  {
+    "tag": "diy",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2023/2023-03-04 Про кухню.md"
+    ]
+  },
+  {
+    "tag": "car",
+    "tagCount": 3,
+    "relativePaths": [
+      "Diary/2025/2025-12-28 Потерял машину.md",
+      "Diary/2025/2025-03-22 Про машины.md"
+    ]
+  },
+  {
+    "tag": "parking",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-12-28 Потерял машину.md"
+    ]
+  },
+  {
+    "tag": "daily_life",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-12-28 Потерял машину.md"
+    ]
+  },
+  {
+    "tag": "surfing",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-11-30 Про серфинг.md"
+    ]
+  },
+  {
+    "tag": "birthday",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-11-30 Про серфинг.md"
+    ]
+  },
+  {
+    "tag": "adventure",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-11-30 Про серфинг.md"
+    ]
+  },
+  {
+    "tag": "australia",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-11-30 Про австралийцев.md"
+    ]
+  },
+  {
+    "tag": "friends",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-11-30 Про австралийцев.md"
+    ]
+  },
+  {
+    "tag": "workaholism",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-11-25 Трудоголизм.md"
+    ]
+  },
+  {
+    "tag": "burnout",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-11-25 Трудоголизм.md"
+    ]
+  },
+  {
+    "tag": "bicycle",
+    "tagCount": 4,
+    "relativePaths": [
+      "Diary/2025/2025-11-11 Про велосипед.md",
+      "Diary/2025/2025-10-20 Про велосипед.md",
+      "Diary/2025/2025-06-23 Про велосипеды.md",
+      "Diary/2025/2025-05-27 Про фалосипед.md"
+    ]
+  },
+  {
+    "tag": "apartments",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-10-13 Про компьютерную игру.md"
+    ]
+  },
+  {
+    "tag": "tools",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-10-20 Про AI.md"
+    ]
+  },
+  {
+    "tag": "v",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-10-15 Про V.md"
+    ]
+  },
+  {
+    "tag": "windows",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-10-11 Power Toys.md"
+    ]
+  },
+  {
+    "tag": "music",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-09-26 Про музыку.md"
+    ]
+  },
+  {
+    "tag": "pure",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-07-14 Про свиданку.md"
+    ]
+  },
+  {
+    "tag": "dating",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-07-14 Про свиданку.md"
+    ]
+  },
+  {
+    "tag": "xreal",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-07-14 Про очечи.md"
+    ]
+  },
+  {
+    "tag": "poland",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-07-07 Про Польшу.md"
+    ]
+  },
+  {
+    "tag": "krakow",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-07-07 Про Польшу.md"
+    ]
+  },
+  {
+    "tag": "water",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-06-24 Про фильтры.md"
+    ]
+  },
+  {
+    "tag": "mother",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-05-15 Про неизбежность.md"
+    ]
+  },
+  {
+    "tag": "forest",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-04-26 Садили лес.md"
+    ]
+  },
+  {
+    "tag": "parents",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-04-06 Про отца и заботу.md"
+    ]
+  },
+  {
+    "tag": "fish",
+    "tagCount": 5,
+    "relativePaths": [
+      "Diary/2025/2025-04-06 Про смерть.md",
+      "Diary/2025/2025-02-22 Про аквариум.md",
+      "Diary/2025/2025-01-10 Про пять евро.md"
+    ]
+  },
+  {
+    "tag": "bycicle",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-04-01 Про велосипед.md"
+    ]
+  },
+  {
+    "tag": "household",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-03-09 Про нечто хтонической.md",
+      "Diary/2025/2025-03-09 Про нечто хтонической 1.md"
+    ]
+  },
+  {
+    "tag": "soap",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-02-27 Про мыло.md"
+    ]
+  },
+  {
+    "tag": "steam",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-02-17 Про Steam.md"
+    ]
+  },
+  {
+    "tag": "quake",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-02-17 Про Steam.md"
+    ]
+  },
+  {
+    "tag": "civilization",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-02-17 Про Steam.md"
+    ]
+  },
+  {
+    "tag": "colonization",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-02-17 Про Steam.md"
+    ]
+  },
+  {
+    "tag": "school",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-02-11 Про родительское собрание.md"
+    ]
+  },
+  {
+    "tag": "iphone",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-02-03 Про поездку в Минск.md"
+    ]
+  },
+  {
+    "tag": "homeassistant",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-02-02 Про Home Assistant.md"
+    ]
+  },
+  {
+    "tag": "avocado",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-01-31 Про авокадо.md"
+    ]
+  },
+  {
+    "tag": "grill",
+    "tagCount": 2,
+    "relativePaths": [
+      "Diary/2025/2025-01-16 Про гриль.md"
+    ]
+  },
+  {
+    "tag": "wc",
+    "tagCount": 1,
+    "relativePaths": [
+      "Diary/2025/2025-01-14 О втулках от туалетной бумаги.md"
+    ]
+  },
+  {
+    "tag": "dns",
+    "tagCount": 1,
+    "relativePaths": [
+      "Configs/Khlebko.com DNS.md"
+    ]
+  },
+  {
+    "tag": "config",
+    "tagCount": 1,
+    "relativePaths": [
+      "Configs/Khlebko.com DNS.md"
+    ]
+  },
+  {
+    "tag": "khlebko_com",
+    "tagCount": 1,
+    "relativePaths": [
+      "Configs/Khlebko.com DNS.md"
+    ]
+  },
+  {
+    "tag": "context7",
+    "tagCount": 1,
+    "relativePaths": [
+      "AI/MCPs.md"
+    ]
+  },
+  {
+    "tag": "api_key",
+    "tagCount": 1,
+    "relativePaths": [
+      "AI/MCPs.md"
+    ]
+  }
+]

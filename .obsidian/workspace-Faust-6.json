@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "71481c5bf51ad76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae2707a0ff21059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b641a828f82767",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-calendar",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "96b08e42be612f84",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/!Google Keep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "!Google Keep"
+            }
+          },
+          {
+            "id": "d733338fe6ea427f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/Experts community/Service description.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Service description"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9070188cc83c6cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33ed517484a2f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5ae54eb9bca8f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "758371252efff449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff14f5e1e977596a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c0109cad43e64c86",
+    "type": "split",
+    "children": [
+      {
+        "id": "42fc4744585f4ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba45e0628cc218c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Landing page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Landing page"
+            }
+          },
+          {
+            "id": "8b2b96b207a79496",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f739c0091008323",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EPAM/Interview/4.2 Angular.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4.2 Angular"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-trim-whitespace:Trim whitespace": false
+    }
+  },
+  "active": "d733338fe6ea427f",
+  "lastOpenFiles": [
+    "Work/Projects/Experts community/Building plan.md",
+    "Work/Projects/Experts community/Experts community.md",
+    "Personal/2025-03-25.md",
+    "Work/Projects/Experts community/Service description.md",
+    "Personal/Дневничек/2025-03-22 Про машины.md",
+    "Personal/2025-03-24.md",
+    "Personal/!Google Keep.md",
+    "Configs/WebDevelopment/Prettier.md",
+    "Configs/WebDevelopment/Perfect .eslint.js.md",
+    "Work/Projects/TKD-DW1/!ToDo.md",
+    "Personal/Дневничек/2025-03-22 О широте души.md",
+    "Personal/Дневничек/2025-03-22 Про стэндап в реальной жизни.md",
+    "Interesting.md",
+    "Personal/Дневничек/2025-03-20 Про эболу.md",
+    "Personal/!TODO.md",
+    "Work/Interview/TI JS coding tasks.md",
+    "Work/Interview/4.2 Angular.md",
+    "Work/Interview/1. Core JS questions.md",
+    "Work/Interview/0. Interview template.md",
+    "Personal/Presents ideas/Silvana's presents ideas.md",
+    "Personal/Presents ideas",
+    "Personal/Presents ideas/Подарки Ольге Владимировне.md",
+    "Personal/2025-03-16 Я все продал.md",
+    "Personal/Дневничек/2025-03-15 Про пирожки.md",
+    "Work/Interview/1.1 JS coding tasks.md",
+    "Work/ASMT/L3/1. Common tech expertise.md",
+    "Work/ASMT/L3/2. Discipline specific tech expertise.md",
+    "Pasted image 20250226201713.png",
+    "Pasted image 20250226223539.png",
+    "Configs/WebDevelopment",
+    "Work/Projects/Merge vs Rebase/img/rebase_golden_rule 1.png",
+    "Work/Projects/Merge vs Rebase/img/rebase_golden_rule.png",
+    "Work/Projects/Merge vs Rebase/Merge vs Rebase.md.2025-02-27_20.30.54.foldersync.old",
+    "Work/Projects/Merge vs Rebase/img/rebase_1.png",
+    "Work/Projects/Merge vs Rebase/img/Pasted image 20250220091908.png",
+    "Work/Projects/Merge vs Rebase/img/merge-fast-forward_1.png",
+    "Work/Projects/Merge vs Rebase/img/merge-fast-forward_2.png",
+    "Work/Projects/Merge vs Rebase/img/merge-3way_1.png",
+    "Work/Projects/Merge vs Rebase/img/merge-3way_2.png",
+    "Work/Projects/Experts community",
+    "Work/Projects/Merge vs Rebase/img",
+    "Work/Projects/Merge vs Rebase",
+    "Work/Projects/TKD-DW1/Jira analisys",
+    "Work/Projects/TKD-DW1",
+    "Personal/Archive data",
+    "KB/WSL"
+  ]
+}

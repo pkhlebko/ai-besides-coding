@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Дневничек",
+      "color": {
+        "a": 1,
+        "rgb": 8453888
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.1,
+  "nodeSizeMultiplier": 1.22750865051903,
+  "lineSizeMultiplier": 1.51574394463668,
+  "collapse-forces": false,
+  "centerStrength": 0.36159169550173,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 392,
+  "scale": 0.13168724279835392,
+  "close": false
+}
